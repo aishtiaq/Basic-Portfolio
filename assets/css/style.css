@@ -197,3 +197,11 @@ h3 {
 	position: relative;
 	bottom: 60px;
 }
+
+h4 {
+    font-size: 24px;
+	color: #4aaaa5;
+	font-weight: bold;
+	font-family: "Georgia", Times, Times New Roman, serif;
+
+}
